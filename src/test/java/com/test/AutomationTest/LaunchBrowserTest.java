@@ -10,5 +10,6 @@ public static void method(){
 	WebDriver driver=new FirefoxDriver();
 	
 	driver.get("http://www.google.com");
+	//test
 }
 }
